@@ -1,7 +1,8 @@
+<div align="center">
+
 # 👨‍💻 Tayyab Shahzad
 
 # 💫 About Me:
-<div align="center">
 
 💻 I'm passionate about programming and building projects. I’ve developed systems like a National Student Registration System using C++, and I enjoy working with advanced OOP concepts like inheritance, composition, and operator overloading.<br><br>
 
